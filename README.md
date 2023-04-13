@@ -2,3 +2,8 @@ Para executar a aplicação basta copiar o código fonte e colocalo em sua ide e
 assim após iniciar ele em .net o aplicativo rodara em seu console.
 
 Para utilizar o Programa corretamente siga corretamente as instruções do código e selecione opções válidas
+
+RA dos integrantes do Grupo:
+     a2465000
+     a2857721
+     a2953654
