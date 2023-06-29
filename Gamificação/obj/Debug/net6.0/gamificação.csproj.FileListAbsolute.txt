@@ -1,0 +1,15 @@
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\bin\Debug\net6.0\gamificação.exe
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\bin\Debug\net6.0\gamificação.deps.json
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\bin\Debug\net6.0\gamificação.runtimeconfig.json
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\bin\Debug\net6.0\gamificação.dll
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\bin\Debug\net6.0\gamificação.pdb
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.csproj.AssemblyReference.cache
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.AssemblyInfoInputs.cache
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.AssemblyInfo.cs
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.csproj.CoreCompileInputs.cache
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.dll
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\refint\gamificação.dll
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.pdb
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\gamificação.genruntimeconfig.cache
+C:\Users\Garra-PC\programas\Gamificacao1-master\Gamificação\obj\Debug\net6.0\ref\gamificação.dll
